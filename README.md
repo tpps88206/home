@@ -22,7 +22,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/tpps88206/home?color=ffcc66&style=for-the-badge)](https://github.com/tpps88206/star_book/issues)
 [![GitHub license](https://img.shields.io/github/license/tpps88206/home?style=for-the-badge)](https://github.com/tpps88206/home/blob/master/LICENSE)
 
-[![Site preview](/public/social-image.png)](https://tpps88206.github.io/)
+[![Site preview](/public/social-image.gif)](https://tpps88206.github.io/)
 
 ## Table of Contents
 
